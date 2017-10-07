@@ -77,7 +77,7 @@ public class drive {
 			pw.println();
 		}
 		
-		
+		System.out.println("Hi~");
 		in.close();
 		pw.close();
 	}
